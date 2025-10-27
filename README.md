@@ -1,5 +1,6 @@
-<img width="1536" height="1024" alt="fleetsocket_logo" src="https://github.com/user-attachments/assets/41c110c6-74c3-464d-bb88-b5318ad19ccc" />
-
+<p align="center">
+  <img width="700" height="500" alt="fleetsocket_logo" src="https://github.com/user-attachments/assets/41c110c6-74c3-464d-bb88-b5318ad19ccc" />
+</p>
 
 # FleetSocket
 
