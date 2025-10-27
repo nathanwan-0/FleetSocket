@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="fleetsocket_logo" src="https://github.com/user-attachments/assets/41c110c6-74c3-464d-bb88-b5318ad19ccc" />
+
+
 # FleetSocket
 
 FleetSocket is a lightweight real-time chat application built with WebSockets, Redis, and React. Users can join chat rooms, send messages, and switch between rooms instantly. Messages are persisted in Redis, ensuring chat history is maintained across sessions.
