@@ -54,7 +54,7 @@ FleetSocket/
 ## Requirements
 
 - Node.js 18 or higher  
-- Redis (local installation or Docker)  
+- Redis (local installation or [Docker](https://www.docker.com/get-started/))  
 
 ---
 
